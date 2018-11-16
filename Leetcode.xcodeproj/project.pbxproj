@@ -10,6 +10,7 @@
 		829E42D5219AA7C300FAE2A9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829E42D4219AA7C300FAE2A9 /* main.swift */; };
 		829E42DC219AA84600FAE2A9 /* UniqueEmailAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829E42DB219AA84600FAE2A9 /* UniqueEmailAddress.swift */; };
 		829E42DE219AB4F200FAE2A9 /* JewelsInStones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829E42DD219AB4F200FAE2A9 /* JewelsInStones.swift */; };
+		82AE5282219E67DA0089BFB1 /* UniqueMorseCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82AE5281219E67DA0089BFB1 /* UniqueMorseCode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		829E42D4219AA7C300FAE2A9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		829E42DB219AA84600FAE2A9 /* UniqueEmailAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueEmailAddress.swift; sourceTree = "<group>"; };
 		829E42DD219AB4F200FAE2A9 /* JewelsInStones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JewelsInStones.swift; sourceTree = "<group>"; };
+		82AE5281219E67DA0089BFB1 /* UniqueMorseCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueMorseCode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				829E42D4219AA7C300FAE2A9 /* main.swift */,
 				829E42DB219AA84600FAE2A9 /* UniqueEmailAddress.swift */,
 				829E42DD219AB4F200FAE2A9 /* JewelsInStones.swift */,
+				82AE5281219E67DA0089BFB1 /* UniqueMorseCode.swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82AE5282219E67DA0089BFB1 /* UniqueMorseCode.swift in Sources */,
 				829E42DC219AA84600FAE2A9 /* UniqueEmailAddress.swift in Sources */,
 				829E42D5219AA7C300FAE2A9 /* main.swift in Sources */,
 				829E42DE219AB4F200FAE2A9 /* JewelsInStones.swift in Sources */,
