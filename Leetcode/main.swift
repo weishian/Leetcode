@@ -26,3 +26,7 @@ print("AAAAAA".lowercased())
 //804: Unique Morse Code Words
 print("804: Unique Morse Code Words")
 print(uniqueMorseRepresentations(["gin", "zen", "gig", "msg"]))
+
+//905. Sort Array By Parity
+print("905. Sort Array By Parity")
+print(sortArrayByParity([3,1,2,4]))
