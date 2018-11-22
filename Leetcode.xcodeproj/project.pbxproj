@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		65F6C3F621A17C1C000CD186 /* SortArryByParity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F6C3F521A17C1C000CD186 /* SortArryByParity.swift */; };
+		824503A521A24BF7000E6256 /* RobootReturnToOrigin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 824503A421A24BF7000E6256 /* RobootReturnToOrigin.swift */; };
 		829E42D5219AA7C300FAE2A9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829E42D4219AA7C300FAE2A9 /* main.swift */; };
 		829E42DC219AA84600FAE2A9 /* UniqueEmailAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829E42DB219AA84600FAE2A9 /* UniqueEmailAddress.swift */; };
 		829E42DE219AB4F200FAE2A9 /* JewelsInStones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829E42DD219AB4F200FAE2A9 /* JewelsInStones.swift */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		65F6C3F521A17C1C000CD186 /* SortArryByParity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArryByParity.swift; sourceTree = "<group>"; };
+		824503A421A24BF7000E6256 /* RobootReturnToOrigin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobootReturnToOrigin.swift; sourceTree = "<group>"; };
 		829E42D1219AA7C300FAE2A9 /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		829E42D4219AA7C300FAE2A9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		829E42DB219AA84600FAE2A9 /* UniqueEmailAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueEmailAddress.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 				829E42DD219AB4F200FAE2A9 /* JewelsInStones.swift */,
 				82AE5281219E67DA0089BFB1 /* UniqueMorseCode.swift */,
 				65F6C3F521A17C1C000CD186 /* SortArryByParity.swift */,
+				824503A421A24BF7000E6256 /* RobootReturnToOrigin.swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -132,6 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				82AE5282219E67DA0089BFB1 /* UniqueMorseCode.swift in Sources */,
+				824503A521A24BF7000E6256 /* RobootReturnToOrigin.swift in Sources */,
 				829E42DC219AA84600FAE2A9 /* UniqueEmailAddress.swift in Sources */,
 				829E42D5219AA7C300FAE2A9 /* main.swift in Sources */,
 				829E42DE219AB4F200FAE2A9 /* JewelsInStones.swift in Sources */,
