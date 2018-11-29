@@ -38,3 +38,7 @@ print(judgeCircle("UD"))
 //832: Flipping an Image
 print("832: Flipping an Image")
 print(flipAndInvertImage([[1,1,0],[1,0,1],[0,0,0]]))
+
+// 728: Self Dividing Numbers
+print("728: Self Dividing Numbers")
+print(selfDividingNumbers(1, 22))

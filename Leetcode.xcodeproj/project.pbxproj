@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		656FED1F21AF928200E06CB7 /* SelfDividingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 656FED1E21AF928200E06CB7 /* SelfDividingNumbers.swift */; };
 		65F6C3F621A17C1C000CD186 /* SortArryByParity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F6C3F521A17C1C000CD186 /* SortArryByParity.swift */; };
 		65F7090921A841CE00198FCB /* MergeTwoBinaryTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7090821A841CE00198FCB /* MergeTwoBinaryTrees.swift */; };
 		65F7090B21A84F3F00198FCB /* MaximumDepthofBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7090A21A84F3F00198FCB /* MaximumDepthofBinaryTree.swift */; };
@@ -31,6 +32,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		656FED1E21AF928200E06CB7 /* SelfDividingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfDividingNumbers.swift; sourceTree = "<group>"; };
 		65F6C3F521A17C1C000CD186 /* SortArryByParity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArryByParity.swift; sourceTree = "<group>"; };
 		65F7090821A841CE00198FCB /* MergeTwoBinaryTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoBinaryTrees.swift; sourceTree = "<group>"; };
 		65F7090A21A84F3F00198FCB /* MaximumDepthofBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumDepthofBinaryTree.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				82831A8621A6351B00C505B6 /* FlippingImage.swift */,
 				65F7090821A841CE00198FCB /* MergeTwoBinaryTrees.swift */,
 				65F7090A21A84F3F00198FCB /* MaximumDepthofBinaryTree.swift */,
+				656FED1E21AF928200E06CB7 /* SelfDividingNumbers.swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			files = (
 				65F7090B21A84F3F00198FCB /* MaximumDepthofBinaryTree.swift in Sources */,
 				82AE5282219E67DA0089BFB1 /* UniqueMorseCode.swift in Sources */,
+				656FED1F21AF928200E06CB7 /* SelfDividingNumbers.swift in Sources */,
 				824503A521A24BF7000E6256 /* RobootReturnToOrigin.swift in Sources */,
 				829E42DC219AA84600FAE2A9 /* UniqueEmailAddress.swift in Sources */,
 				829E42D5219AA7C300FAE2A9 /* main.swift in Sources */,
