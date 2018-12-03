@@ -39,6 +39,10 @@ print(judgeCircle("UD"))
 print("832: Flipping an Image")
 print(flipAndInvertImage([[1,1,0],[1,0,1],[0,0,0]]))
 
-// 728: Self Dividing Numbers
+//728: Self Dividing Numbers
 print("728: Self Dividing Numbers")
 print(selfDividingNumbers(1, 22))
+
+//561: Array Partition I
+print("561: Array Partition I")
+print(arrayPairSum([1,4,3,2]))
