@@ -46,3 +46,7 @@ print(selfDividingNumbers(1, 22))
 //561: Array Partition I
 print("561: Array Partition I")
 print(arrayPairSum([1,4,3,2]))
+
+//944: Delete Columns to Make Sorted
+print("944: Delete Columns to Make Sorted")
+print(minDeletionSize(["cba","daf","ghi"]))
