@@ -50,3 +50,7 @@ print(arrayPairSum([1,4,3,2]))
 //944: Delete Columns to Make Sorted
 print("944: Delete Columns to Make Sorted")
 print(minDeletionSize(["cba","daf","ghi"]))
+
+//922: Sort Array By Parity II
+print("944: Sort Array By Parity II")
+print(sortArrayByParityII([4,2,5,7]))
