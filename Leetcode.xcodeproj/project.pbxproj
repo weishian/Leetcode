@@ -10,6 +10,7 @@
 		656FED1F21AF928200E06CB7 /* SelfDividingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 656FED1E21AF928200E06CB7 /* SelfDividingNumbers.swift */; };
 		656FED2121AFD28800E06CB7 /* ArrayPartitionI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 656FED2021AFD28800E06CB7 /* ArrayPartitionI.swift */; };
 		659999CF21BE11E600748C1F /* SortArrayByParityII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659999CE21BE11E600748C1F /* SortArrayByParityII.swift */; };
+		659999D321CF6A9800748C1F /* DeleteColumnsToMakeSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659999D221CF6A9800748C1F /* DeleteColumnsToMakeSorted.swift */; };
 		65F6C3F621A17C1C000CD186 /* SortArryByParity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F6C3F521A17C1C000CD186 /* SortArryByParity.swift */; };
 		65F7090921A841CE00198FCB /* MergeTwoBinaryTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7090821A841CE00198FCB /* MergeTwoBinaryTrees.swift */; };
 		65F7090B21A84F3F00198FCB /* MaximumDepthofBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7090A21A84F3F00198FCB /* MaximumDepthofBinaryTree.swift */; };
@@ -19,7 +20,6 @@
 		829E42DC219AA84600FAE2A9 /* UniqueEmailAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829E42DB219AA84600FAE2A9 /* UniqueEmailAddress.swift */; };
 		829E42DE219AB4F200FAE2A9 /* JewelsInStones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829E42DD219AB4F200FAE2A9 /* JewelsInStones.swift */; };
 		82AE5282219E67DA0089BFB1 /* UniqueMorseCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82AE5281219E67DA0089BFB1 /* UniqueMorseCode.swift */; };
-		82F9A4B221B604B00077C912 /* DeleteColumnsToMakeSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F9A4B121B604B00077C912 /* DeleteColumnsToMakeSorted.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +38,7 @@
 		656FED1E21AF928200E06CB7 /* SelfDividingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfDividingNumbers.swift; sourceTree = "<group>"; };
 		656FED2021AFD28800E06CB7 /* ArrayPartitionI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayPartitionI.swift; sourceTree = "<group>"; };
 		659999CE21BE11E600748C1F /* SortArrayByParityII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArrayByParityII.swift; sourceTree = "<group>"; };
+		659999D221CF6A9800748C1F /* DeleteColumnsToMakeSorted.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeleteColumnsToMakeSorted.swift; sourceTree = "<group>"; };
 		65F6C3F521A17C1C000CD186 /* SortArryByParity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArryByParity.swift; sourceTree = "<group>"; };
 		65F7090821A841CE00198FCB /* MergeTwoBinaryTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoBinaryTrees.swift; sourceTree = "<group>"; };
 		65F7090A21A84F3F00198FCB /* MaximumDepthofBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumDepthofBinaryTree.swift; sourceTree = "<group>"; };
@@ -48,7 +49,6 @@
 		829E42DB219AA84600FAE2A9 /* UniqueEmailAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueEmailAddress.swift; sourceTree = "<group>"; };
 		829E42DD219AB4F200FAE2A9 /* JewelsInStones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JewelsInStones.swift; sourceTree = "<group>"; };
 		82AE5281219E67DA0089BFB1 /* UniqueMorseCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueMorseCode.swift; sourceTree = "<group>"; };
-		82F9A4B121B604B00077C912 /* DeleteColumnsToMakeSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteColumnsToMakeSorted.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,7 +92,7 @@
 				65F7090A21A84F3F00198FCB /* MaximumDepthofBinaryTree.swift */,
 				656FED1E21AF928200E06CB7 /* SelfDividingNumbers.swift */,
 				656FED2021AFD28800E06CB7 /* ArrayPartitionI.swift */,
-				82F9A4B121B604B00077C912 /* DeleteColumnsToMakeSorted.swift */,
+				659999D221CF6A9800748C1F /* DeleteColumnsToMakeSorted.swift */,
 				659999CE21BE11E600748C1F /* SortArrayByParityII.swift */,
 			);
 			path = Leetcode;
@@ -155,7 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				82F9A4B221B604B00077C912 /* DeleteColumnsToMakeSorted.swift in Sources */,
+				659999D321CF6A9800748C1F /* DeleteColumnsToMakeSorted.swift in Sources */,
 				65F7090B21A84F3F00198FCB /* MaximumDepthofBinaryTree.swift in Sources */,
 				82AE5282219E67DA0089BFB1 /* UniqueMorseCode.swift in Sources */,
 				656FED1F21AF928200E06CB7 /* SelfDividingNumbers.swift in Sources */,
