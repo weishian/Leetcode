@@ -1,4 +1,4 @@
-//  
+//  fix [issue 53]  
 //  main.swift
 //  Leetcode
 //
