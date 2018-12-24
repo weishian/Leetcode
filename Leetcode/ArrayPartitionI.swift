@@ -2,7 +2,7 @@
 //  ArrayPartitionI.swift
 //  Leetcode
 //
-//  Created by daniel on 11/29/18.
+//  Created by daniel chang on 11/29/18.
 //  Copyright © 2018 daniel.chang. All rights reserved.
 //
 
